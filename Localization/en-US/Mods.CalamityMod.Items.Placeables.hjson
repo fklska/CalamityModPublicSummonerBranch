@@ -3577,3 +3577,122 @@ WaterTurret: {
 		Cannot attack while a boss is alive
 		'''
 }
+
+WulfrumRoverBanner.DisplayName: Знамя вульфрумового скитальца
+WulfrumHovercraftBanner.DisplayName: Знамя вульфрумового автолёта
+WulfrumGyratorBanner.DisplayName: Знамя вульфрумового вращателя
+WulfrumDroneBanner.DisplayName: Знамя вульфрумового дрона
+WulfrumAmplifierBanner.DisplayName: Знамя вульфрумового усилителя
+VirulingBanner.DisplayName: Знамя чумного зародыша
+ViperfishBanner.DisplayName: Знамя рыбы-гадюки
+TrilobiteBanner.DisplayName: Знамя трилобита
+TrasherBanner.DisplayName: Знамя мусорщика
+ToxicMinnowBanner.DisplayName: Знамя ядовитого пескаря
+ToxicatfishBanner.DisplayName: Знамя токсичного сома
+TopazCrawlerBanner.DisplayName: Знамя топазового ползуна
+SunskaterBanner.DisplayName: Знамя солнечного скитальца
+SulphurousSkaterBanner.DisplayName: Знамя сернистой водомерки
+SulflounderBanner.DisplayName: Знамя сернистой камбалы
+StormlionBanner.DisplayName: Знамя штормового льва
+StellarCulexBanner.DisplayName: Знамя звёздного москита
+SoulSlurperBanner.DisplayName: Знамя поглотителя душ
+SlabCrabBanner.DisplayName: Знамя плиточного краба
+SkyfinBanner.DisplayName: Знамя небесного плавника
+SightseerSpitterBanner.DisplayName: Знамя разведчика-плевателя
+SightseerColliderBanner.DisplayName: Знамя разведчика-таранщика
+ShockstormShuttleBanner.DisplayName: Знамя шаттла шокового шторма
+SeaUrchinBanner.DisplayName: Знамя морского ежа
+SeaSerpentBanner.DisplayName: Знамя морского змея
+SeaMinnowBanner.DisplayName: Знамя морского пескаря
+SeaFloatyBanner.DisplayName: Знамя морского поплавка
+ScryllarBanner.DisplayName: Знамя сциллара
+ScornEaterBanner.DisplayName: Знамя презренного пожирателя
+SapphireCrawlerBanner.DisplayName: Знамя сапфирового ползуна
+RubyCrawlerBanner.DisplayName: Знамя рубинового ползуна
+RotdogBanner.DisplayName: Знамя гнильдога
+RimehoundBanner.DisplayName: Знамя инеевой гончей
+RepairUnitBanner.DisplayName: Знамя ремонтного бота
+RenegadeWarlockBanner.DisplayName: Знамя чернокнижника-отступника
+ReaperSharkBanner.DisplayName: Знамя акулы-жнеца
+RadiatorBanner.DisplayName: Знамя излучателя
+ProfanedEnergyBanner.DisplayName: Знамя осквернённой энергии
+PrismBackBanner.DisplayName: Знамя призмоспина
+PlagueshellBanner.DisplayName: Знамя чумного панциря
+PlagueChargerBanner.DisplayName: Знамя чумного налётчика
+PlaguebringerBanner.DisplayName: Знамя разносчицы чумы
+PiggyBanner.DisplayName: Знамя поросёнка
+PhantomSpiritBanner.DisplayName: Знамя фантомного духа
+PestilentSlimeBanner.DisplayName: Знамя ядовитого слизня
+PerennialSlimeBanner.DisplayName: Знамя многолетнего слизня
+OverloadedSoldierBanner.DisplayName: Знамя перегруженного солдата
+OrthoceraBanner.DisplayName: Знамя ортоцерасы
+OarfishBanner.DisplayName: Знамя рыбы-ремня
+NuclearToadBanner.DisplayName: Знамя ядерной жабы
+NovaBanner.DisplayName: Знамя новы
+MorayEelBanner.DisplayName: Знамя мурены
+MirageJellyBanner.DisplayName: Знамя миражной медузы
+MelterBanner.DisplayName: Знамя плавителя
+MantisShrimpBanner.DisplayName: Знамя креветки-богомола
+MantisBanner.DisplayName: Знамя богомола
+LuminousCorvinaBanner.DisplayName: Знамя люминесцентного горбыля
+LaserfishBanner.DisplayName: Знамя рыбы-лазера
+IrradiatedSlimeBanner.DisplayName: Знамя облучённого слизня
+InfernalCongealmentBanner.DisplayName: Знамя инфернальной застывшей массы
+ImpiousImmolatorBanner.DisplayName: Знамя нечестивого жертвенника
+IceClasperBanner.DisplayName: Знамя ледяного клеща
+HiveBanner.DisplayName: Знамя улья
+HeatSpiritBanner.DisplayName: Знамя духа тепла
+HadarianBanner.DisplayName: Знамя хадариана
+GulperEelBanner.DisplayName: Знамя большеротого угря
+GnasherBanner.DisplayName: Знамя скрежетателя
+GiantSquidBanner.DisplayName: Знамя гигантского кальмара
+GhostBellBanner.DisplayName: Знамя призрачного колокольчика
+GammaSlimeBanner.DisplayName: Знамя гамма-слизня
+FusionFeederBanner.DisplayName: Знамя питателя синтеза
+FrogfishBanner.DisplayName: Знамя морского чёрта
+FlakCrabBanner.DisplayName: Знамя зенитного краба
+FearlessGoldfishWarriorBanner.DisplayName: Знамя бесстрашной золотой рыбки-воина
+EutrophicRayBanner.DisplayName: Знамя эвтрофного ската
+EmeraldCrawlerBanner.DisplayName: Знамя изумрудного ползуна
+EidolonWyrmJuvenileBanner.DisplayName: Знамя эйдолонского змия
+EidolistBanner.DisplayName: Знамя эйдолиста
+EbonianBlightSlimeBanner.DisplayName: Знамя эбонитового гибельного слизня
+EarthElementalBanner.DisplayName: Знамя земляного элементаля
+DiamondCrawlerBanner.DisplayName: Знамя алмазного ползуна
+DevilFishBanner.DisplayName: Знамя рыбы-дьявола
+DespairStoneBanner.DisplayName: Знамя камня отчаяния
+CuttlefishBanner.DisplayName: Знамя каракатицы
+CrystalCrawlerBanner.DisplayName: Знамя кристального ползуна
+CryoSlimeBanner.DisplayName: Знамя криослизня
+CryonBanner.DisplayName: Знамя криона
+CrimulanBlightSlimeBanner.DisplayName: Знамя багротанового гибельного слизня
+ColossalSquidBanner.DisplayName: Знамя громадного кальмара
+CnidrionBanner.DisplayName: Знамя стрекаря
+CloudElementalBanner.DisplayName: Знамя облачного элементаля
+ClamBanner.DisplayName: Знамя моллюска
+ChaoticPufferBanner.DisplayName: Знамя хаотического иглобрюха
+CannonballJellyfishBanner.DisplayName: Знамя медузы-пушечного ядра
+CalamityEyeBanner.DisplayName: Знамя бедственного глаза
+BoxJellyfishBanner.DisplayName: Знамя кубомедузы
+BohldohrBanner.DisplayName: Знамя бурлыжнека
+BobbitWormBanner.DisplayName: Знамя волнистого червя
+BloomSlimeBanner.DisplayName: Знамя цветущего слизня
+BloatfishBanner.DisplayName: Знамя вздутобрюха
+BlindedAnglerBanner.DisplayName: Знамя слепого удильщика
+BelchingCoralBanner.DisplayName: Знамя изрыгающего коралла
+BabyGhostBellBanner.DisplayName: Знамя маленького призрачного колокольчика
+BabyFlakCrabBanner.DisplayName: Знамя маленького зенитного краба
+BabyCannonballJellyfishBanner.DisplayName: Знамя маленькой медузы-пушечного ядра
+AtlasBanner.DisplayName: Знамя атланта
+AstralSlimeBanner.DisplayName: Знамя астрального слизня
+AstralProbeBanner.DisplayName: Знамя астрального зонда
+AstralachneaBanner.DisplayName: Знамя астралакнеи
+ArmoredDiggerBanner.DisplayName: Знамя бронированного копателя
+AriesBanner.DisplayName: Знамя овна
+AquaticUrchinBanner.DisplayName: Знамя акватического ежа
+AnthozoanCrabBanner.DisplayName: Знамя кораллового краба
+AndroombaBanner.DisplayName: Знамя андробота-пылесоса
+AmethystCrawlerBanner.DisplayName: Знамя аметистового ползуна
+AmberCrawlerBanner.DisplayName: Знамя янтарного ползуна
+AeroSlimeBanner.DisplayName: Знамя аэрослизня
+AcidEelBanner.DisplayName: Знамя кислотного угря

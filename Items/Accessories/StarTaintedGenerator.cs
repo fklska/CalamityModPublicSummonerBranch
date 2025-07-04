@@ -23,8 +23,8 @@ namespace CalamityMod.Items.Accessories
 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.Calamity().voltaicJelly = true;
-            player.Calamity().starbusterCore = true;
+            //player.Calamity().voltaicJelly = true;
+            //player.Calamity().starbusterCore = true;
             player.Calamity().starTaintedGenerator = true;
             player.GetDamage<SummonDamageClass>() += 0.07f;
             player.buffImmune[ModContent.BuffType<Irradiated>()] = true;

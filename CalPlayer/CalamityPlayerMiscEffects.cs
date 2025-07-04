@@ -1274,29 +1274,37 @@ namespace CalamityMod.CalPlayer
             {
                 Player.maxMinions += 4;
             }
-            else
-            {
+            
                 // First Shadowflame is +1, Statis' Blessing is +2, Statis' Curse inherits both for +3
-                if (shadowMinions)
-                    Player.maxMinions++;
-                if (holyMinions)
-                    Player.maxMinions += 2;
+            if (shadowMinions)
+			{
+                Player.maxMinions++;
+			}
+            if (holyMinions)
+			{
+                Player.maxMinions += 2;
+			}
 
-                if (starTaintedGenerator)
-                {
-                    Player.maxMinions += 2;
-                }
-                else
-                {
-                    if (starbusterCore)
-                        Player.maxMinions++;
-
-                    if (voltaicJelly)
-                        Player.maxMinions++;
-                    if (nuclearFuelRod)
-                        Player.maxMinions++;
-                }
+            if (starTaintedGenerator)
+            {
+                Player.maxMinions += 2;
             }
+
+            if (starbusterCore)
+			{ 
+				Player.maxMinions++;
+			}
+
+            if (voltaicJelly)
+			{
+                Player.maxMinions++;
+			}
+            if (nuclearFuelRod)
+			{
+                Player.maxMinions++;
+			}
+                
+            
 
             // Tick all cooldowns.
             // Depending on the code for each individual cooldown, this isn't guaranteed to do anything.
