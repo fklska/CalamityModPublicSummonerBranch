@@ -19,7 +19,7 @@ namespace CalamityMod.Items.Accessories
 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.Calamity().voltaicJelly = true;
+            //player.Calamity().voltaicJelly = true;
             player.Calamity().jellyChargedBattery = true;
             player.GetDamage<SummonDamageClass>() += 0.07f;
         }

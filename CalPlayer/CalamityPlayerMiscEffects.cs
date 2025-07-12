@@ -1299,6 +1299,10 @@ namespace CalamityMod.CalPlayer
 			{
                 Player.maxMinions++;
 			}
+			if(jellyChargedBattery)
+			{
+				Player.maxMinions++;
+			}
             if (nuclearFuelRod)
 			{
                 Player.maxMinions++;
