@@ -318,3 +318,8 @@ YharonEgg: {
 		'A symbol of the Dragon watching over and waiting for you.'
 		'''
 }
+
+Prismatic: {
+	DisplayName: Prismatic
+	Tooltip: ""
+}

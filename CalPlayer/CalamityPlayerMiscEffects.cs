@@ -1307,6 +1307,10 @@ namespace CalamityMod.CalPlayer
 			{
                 Player.maxMinions++;
 			}
+			if (statisCurse)
+			{
+                Player.maxMinions+=3;
+			}
                 
             
 

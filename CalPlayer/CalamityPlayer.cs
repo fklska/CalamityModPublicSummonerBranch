@@ -563,6 +563,7 @@ namespace CalamityMod.CalPlayer
         public bool deadshotBrooch = false;
         public bool shadowMinions = false;
         public bool holyMinions = false;
+		public bool statisCurse = false;
         public bool alchFlask = false;
         public bool toxicHeart = false;
         public bool abaddon = false;
@@ -1712,6 +1713,7 @@ namespace CalamityMod.CalPlayer
             heartOfDarkness = false;
             shadowMinions = false;
             holyMinions = false;
+			statisCurse = false;
             alchFlask = false;
             toxicHeart = false;
             abaddon = false;
